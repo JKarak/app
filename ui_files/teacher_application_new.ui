@@ -209,7 +209,7 @@
            </font>
           </property>
           <property name="text">
-           <string>Причина ухода</string>
+           <string>Причина ухода: </string>
           </property>
          </widget>
         </item>
@@ -263,7 +263,7 @@
            </font>
           </property>
           <property name="text">
-           <string>Номер урока, после которого уходите</string>
+           <string>Номер урока, после которого уходите:</string>
           </property>
          </widget>
         </item>
@@ -324,7 +324,7 @@
            </font>
           </property>
           <property name="text">
-           <string>Дата ухода</string>
+           <string>Дата ухода:</string>
           </property>
          </widget>
         </item>
